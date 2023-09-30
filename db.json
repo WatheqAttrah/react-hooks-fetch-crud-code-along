@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Yogurt",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
@@ -35,6 +35,96 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 11
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 12
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 17
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "name": "coconuts",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 19
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 20
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 21
     }
   ]
 }
